@@ -5,10 +5,10 @@
 ## Background
 
 <p align="center">
-  <img alt="Dreiländerhack Logo" src="img/3LH.png" width="220"/>
+  <img alt="Hack4Rail Logo" src="img/hack4rail-logo.jpg" width="220"/>
 </p>
 
-This project has been initiated during the [Dreiländerhack 2024](https://data.deutschebahn.com/opendata/Veranstaltungen/DreiLaenderHack-2024-12737424), a joint hackathon organised by the railway companies ÖBB, DB, and SBB.
+This project has been initiated during the [Hack4Rail 2025](https://hack4rail.event.sbb.ch/en/), a joint hackathon organised by the railway companies SBB, ÖBB, and DB in partnership with the OpenRail Association.
 
 ## Install
 
