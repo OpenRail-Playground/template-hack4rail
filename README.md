@@ -1,18 +1,18 @@
 # Our Cool Project
 
-*Short description what the project is about*
+<!-- TODO: Shortly explain what this project is about -->
 
 ## Background
 
 <p align="center">
-  <img alt="Hack4Rail Logo" src="img/hack4rail-logo.jpg" width="220"/>
+  <img alt="Hack4Rail Logo" src="img/hack4rail-logo.jpg" width="400"/>
 </p>
 
-This project has been initiated during the [Hack4Rail 2025](https://hack4rail.event.sbb.ch/en/), a joint hackathon organised by the railway companies SBB, ÖBB, and DB in partnership with the OpenRail Association.
+This project has been initiated during the [Hack4Rail 2026](https://hack4rail.org/), a joint hackathon organised by the railway companies SBB, ÖBB, and DB in partnership with the OpenRail Association.
 
 ## Install
 
-*How can a user install the software?*
+<!-- TODO: Explain how a user can install the software -->
 
 ## License
 
